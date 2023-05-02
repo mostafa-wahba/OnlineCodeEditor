@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OnlineCodeEditor/static/css/main.b1a15a02.css",
+    "main.js": "/OnlineCodeEditor/static/js/main.3c6f46f9.js",
+    "static/js/787.e0c74c66.chunk.js": "/OnlineCodeEditor/static/js/787.e0c74c66.chunk.js",
+    "static/media/1157109.png": "/OnlineCodeEditor/static/media/1157109.569da3659c41a7c40aa0.png",
+    "index.html": "/OnlineCodeEditor/index.html",
+    "main.b1a15a02.css.map": "/OnlineCodeEditor/static/css/main.b1a15a02.css.map",
+    "main.3c6f46f9.js.map": "/OnlineCodeEditor/static/js/main.3c6f46f9.js.map",
+    "787.e0c74c66.chunk.js.map": "/OnlineCodeEditor/static/js/787.e0c74c66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a15a02.css",
+    "static/js/main.3c6f46f9.js"
+  ]
+}
